@@ -1,0 +1,100 @@
+a{
+   color: hotpink;
+}
+
+li {
+   color: lightseagreen;
+} 
+
+ul li {
+   color: fuchsia;
+}
+
+span {
+   color: gray;
+}
+li span{
+   color: red;
+}
+/* --------------------------- */
+p {
+   color: saddlebrown;
+}
+ p{
+    color: salmon;
+ }
+/* ---------------------------------- */
+.nav .list a{
+   color: lawngreen;
+}
+
+.list a{
+   color: lightskyblue;
+}
+
+.content + p {
+   color: maroon;
+}
+.text + p {
+   color: forestgreen;
+}
+/* --------------------------------- */
+.text,
+.new{
+   color: mediumblue;
+}
+/* ------------------------------------ */
+#advice{
+   color: mediumorchid;
+}
+
+.start-title{
+   color: orangered;
+}
+
+.start li {
+   color: black;
+}
+
+div.mistake{
+   color: blue;
+}
+
+div .mistake-list{
+   background-color: darkgoldenrod;
+}
+/* ----------------------------- */
+[title="eat-mistake"] {
+   color: darkred;
+}
+/* ------------------------------------ */
+.mistake.list {
+   color: darkslateblue;
+}
+/* --------------------------------------- */
+.item h2{
+   color: deepskyblue;
+}
+
+.content-list ol > li{
+   color: dimgray;
+}
+#breakfast{
+   color: rosybrown;
+}
+
+.content + .img{
+   color: firebrick;
+}
+/* ------------------------ */
+p.test{
+   color: skyblue;
+}
+/* ---------------------- */
+.test.fish{
+   color: yellow;
+}
+/* ------------------------ */
+.paragraf ~ p{
+   color: yellowgreen;
+}
